@@ -4,3 +4,7 @@ body {
 p , h1{
     color:white;
 }
+.h1 {
+    margin:auto;
+    background-color:rgb(40,40,40);
+}
